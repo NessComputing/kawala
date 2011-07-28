@@ -1,3 +1,10 @@
+This is Ness Computing's fork of Kawala, which contains a number of fixups.
+
+Maintainer: Ness Computing Open Source <opensource@nesscomputing.com>
+
+
+=============================================================================================================
+
 kawala is Wealthfront's software platform, containing a number of distinct sub-projects:
 
   kawala-common - Common helper code
