@@ -5,13 +5,13 @@
 	<parent>
 		<groupId>ness.kawala</groupId>
 		<artifactId>kawala-parent</artifactId>
-		<version>0.9.0</version>
+		<version>1.0.0-SNAPSHOT</version>
 		<relativePath>../kawala-parent/pom.xml</relativePath>		
 	</parent>
 	
 	<groupId>ness.kawala</groupId>
 	<artifactId>kawala-guice</artifactId>
-	<version>0.9.0</version>
+	<version>1.0.0-SNAPSHOT</version>
 	
 	<name>Kawala - Guice</name>
 	
@@ -19,12 +19,12 @@
 		<dependency>
 			<groupId>ness.kawala</groupId>
 			<artifactId>kawala-common</artifactId>
-			<version>0.9.0</version>
+			<version>1.0.0-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>ness.kawala</groupId>
 			<artifactId>kawala-testing</artifactId>
-			<version>0.9.0</version>
+			<version>1.0.0-SNAPSHOT</version>
 			<scope>test</scope>
 		</dependency>
 
