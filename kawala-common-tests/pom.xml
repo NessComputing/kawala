@@ -5,13 +5,13 @@
 	<parent>
 		<groupId>ness.kawala</groupId>
 		<artifactId>kawala-parent</artifactId>
-		<version>0.9.1</version>
+		<version>1.0.0-SNAPSHOT</version>
 		<relativePath>../kawala-parent/pom.xml</relativePath>
 	</parent>
 	
 	<groupId>ness.kawala</groupId>
 	<artifactId>kawala-common-tests</artifactId>
-	<version>0.9.1</version>
+	<version>1.0.0-SNAPSHOT</version>
 	
 	<name>Kawala - Common - Tests</name>
 	<description>This module contains the unit tests for com.kaching.platform:kawala-common.
@@ -21,19 +21,19 @@
 		<dependency>
 			<groupId>ness.kawala</groupId>
 			<artifactId>kawala-common</artifactId>
-			<version>0.9.1</version>
+			<version>1.0.0-SNAPSHOT</version>
 			<scope>test</scope>
 		</dependency>
 		<dependency>
 			<groupId>ness.kawala</groupId>
 			<artifactId>kawala-converters</artifactId>
-			<version>0.9.1</version>
+			<version>1.0.0-SNAPSHOT</version>
 			<scope>test</scope>
 		</dependency>
 		<dependency>
 			<groupId>ness.kawala</groupId>
 			<artifactId>kawala-testing</artifactId>
-			<version>0.9.1</version>
+			<version>1.0.0-SNAPSHOT</version>
 			<scope>test</scope>			
 		</dependency>
 
